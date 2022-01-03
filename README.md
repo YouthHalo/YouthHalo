@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DarkSlayer3202
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java and Javascript
+- 🌱 I’m currently learning Godot
