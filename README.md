@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @DarkSlayer3202
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot
+A Game-Dev in progress, I love ot learn new coding languages.
+
+My main languages are:
+Python
+GDscript
+~~Scratch~~
+Java
+And I plan on learning more!
