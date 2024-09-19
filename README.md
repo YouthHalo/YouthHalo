@@ -1,3 +1,3 @@
 Tired
 
-Python, Java, Webdev
+Godot, Webdev, Java and a bit of Python
