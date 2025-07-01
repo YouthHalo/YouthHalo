@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Nabeel!
 
-I'm an incoming Computer Science student at the University of Toronto with a passion for building creative and functional projects through code.
+I'm an incoming Computer Science student at the University of Toronto with a passion for creating small videogames.
 
 ---
 
