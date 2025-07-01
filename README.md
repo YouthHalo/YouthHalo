@@ -11,6 +11,7 @@ I'm an incoming Computer Science student at the University of Toronto Mississaug
 
 ---
 
-![YouthHalo's Stats](https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
-![YouthHalo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YouthHalo&theme=vue-dark&hide_border=true)
-![YouthHalo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YouthHalo&theme=vue-dark&hide_border=true)
+![Views](https://komarev.com/ghpvc/?username=YouthHalo)
