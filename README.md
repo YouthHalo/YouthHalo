@@ -11,7 +11,20 @@ I'm an incoming Computer Science student at the University of Toronto Mississaug
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YouthHalo&theme=vue-dark&hide_border=true)
-![Views](https://komarev.com/ghpvc/?username=YouthHalo)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=YouthHalo&style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
