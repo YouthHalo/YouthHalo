@@ -16,7 +16,7 @@ I'm an incoming Computer Science student at the University of Toronto Mississaug
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthHalo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
