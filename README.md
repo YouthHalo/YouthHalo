@@ -1,13 +1,13 @@
 ### 👋 Hi there, I'm Nabeel Ahmad!
 
-I'm an incoming Computer Science student at the University of Toronto Mississauga with a passion for creating small videogames.
+I'm a first-year Computer Science student at the University of Toronto with a passion for creating small video games.
 
 ---
 
-### 🛠️ What I Do
+### What I Do
 
-- 🎮 **Game Development** using **Godot** – focused on gameplay programming, UI, and small-scale tools.
-- 🌐 **Web Development** – enjoy learning to create with **HTML**, **CSS**, and **JavaScript** to create responsive and user-friendly websites.
+- **Game Development** using **Godot** – focused on gameplay programming, UI, and small-scale tools.
+- **Web Development** – enjoy learning to create with **HTML**, **CSS**, and **JavaScript** to create responsive and user-friendly websites.
 
 ---
 
