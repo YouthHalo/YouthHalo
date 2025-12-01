@@ -7,7 +7,7 @@ I'm a first-year Computer Science student at the University of Toronto with a pa
 ### What I Do
 
 - **Game Development** using **Godot** – focused on gameplay programming, UI, and small-scale tools.
-- **Web Development** – enjoy learning to create with **HTML**, **CSS**, and **JavaScript** to create responsive and user-friendly websites.
+- **Web Development** – enjoy learning to create responsive and user-friendly websites.
 
 ---
 
