@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Nabeel Ahmad!
+### 👋 Hi there, I'm Nabeel!
 
 I'm a first-year Computer Science student at the University of Toronto with a passion for creating small video games.
 
